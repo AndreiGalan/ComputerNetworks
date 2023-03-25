@@ -1,0 +1,10 @@
+Nu te supăra, frate este un joc ce poate fi jucat în 2-4 jucători. Pentru a putea juca acest joc este nevoie de o planşă specială, un zar şi câte 4 pioni de aceaşi culoare pentru fiecare jucător.
+La început fiecare jucător işi va alege culoarea cu care va juca şi va lua 4 pioni de aceaşi culoare.
+Scopul jocului este de a înconjura planşa de joc cu cei patru pioni pentru a ajunge cu toti pionii in locurile indicate cu litera mica culorii dumneavoastra.
+Reguli:
+- fiecare jucător aruncă pe rând cu zarul o singură dată.
+- un pion aflat in casa poate fi mutat pe tabla de joc numai atunci cand aruncand zarul, s-a nimerit cifra 6.
+- atunci cand ati ajuns pe o pozitie, unde deja se afla un pion al unui alt jucator, asta inseamna ca pionul adversarului va fi scos si readus in casa.
+- puteti sari peste pionii proprii sau ai celorlalti jucatori.
+- nu veti putea intra in pozitiile finale, decat atunci cand zarul indica numarul corespunzator pasilor necesari.(primul pion-prima pozitie de finish, al doilea-a doua pozitie de finish etc.)
+Cine reuşeşte să ajungă primul, cu toţi cei 4 pioni, la finish este considerat castigator, insa meciul se va termina abea dupa ce a mai ramas un sigur jucator. 
